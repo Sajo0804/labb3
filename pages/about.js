@@ -1,4 +1,4 @@
-import config from "./config";
+// import config from "./config";
 
-// I din komponent
-const { port, apiKey } = config;
+// // I din komponent
+// const { port, apiKey } = config;
